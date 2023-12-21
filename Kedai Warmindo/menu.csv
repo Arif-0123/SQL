@@ -1,0 +1,32 @@
+﻿id,nama,jenis,kategori,harga_pokok,harga_jual
+1,Indomie Ayam Spesial,mie-kuah,makanan,3000,9000
+2,Indomie Soto Mie,mie-kuah,makanan,3000,9000
+3,Indomie Baso Sapi,mie-kuah,makanan,3000,9000
+4,indomie Ayam Bawang,mie-kuah,makanan,3000,9000
+5,indomie Kari Ayam,mie-kuah,makanan,3000,9000
+6,Indomie Goreng Sambal Matah,mie-goreng,makanan,3000,9000
+7,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3000,9000
+8,Indomie Goreng Rendang,mie-goreng,makanan,3000,9000
+9,Indomie Goreng Pedas,mie-goreng,makanan,3000,9000
+10,Indomie Goreng Spesial,mie-goreng,makanan,3000,9000
+11,Indomie Goreng Aceh,mie-goreng,makanan,3000,9000
+12,Indomie Rasa Soto Lamongan,mie-kuah,makanan,4000,10000
+13,Indomie Rasa Soto Padang,mie-kuah,makanan,4000,10000
+14,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,4000,10000
+15,Indomie Rasa Empal Gentong,mie-kuah,makanan,4000,10000
+16,Indomie Rasa Soto Betawi,mie-kuah,makanan,4000,10000
+17,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,4000,10000
+18,Indomie Rasa Sop Buntut,mie-kuah,makanan,4000,10000
+19,Telur,lainnya,toping,1500,3000
+20,Sambal Matah,lainnya,toping,1500,3000
+21,Sosis,lainnya,toping,1500,3000
+22,Nugget,lainnya,toping,1500,3000
+23,Kornet,lainnya,toping,1500,3000
+24,Es Teh Manis,minuman,minuman,1000,3000
+25,Es Teh Tawar,minuman,minuman,500,1000
+26,Nutri Sari - Mangga,minuman,minuman,1500,3000
+27,Nutri Sari - Jeruk,minuman,minuman,1500,3000
+28,Milo Susu,minuman,minuman,2500,5000
+29,Teh Tarik,minuman,minuman,2500,5000
+30,Susu Putih,minuman,minuman,2500,5000
+31,Kopi,minuman,minuman,2500,5000

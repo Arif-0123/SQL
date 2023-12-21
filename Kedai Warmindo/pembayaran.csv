@@ -1,0 +1,7 @@
+﻿id,jenis_pembayaran,tipe_pembayaran,biaya transaksi
+1,CASH,CASH,0
+2,QRIS-GOPAY,QRIS,2500
+3,QRIS-OVO,QRIS,2500
+4,QRIS-DANA,QRIS,2500
+5,QRIS-SHOPEEPAY,QRIS,2500
+6,CARD,CARD,1500
