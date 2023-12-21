@@ -2,5 +2,5 @@
 
 - project: `ngulik-data`
 - dataset: `nguliksql`
-- tabel: `transaksi_warmindo`
+- tabel: `transaksi_warmindo`,`kurir`,`menu`,`pelanggan`,`pembayaran`,`transaksi_2021`,`transaksi_2022`
 
