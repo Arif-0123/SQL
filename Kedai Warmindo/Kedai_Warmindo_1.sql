@@ -1,3 +1,5 @@
+-- # menggunakan data set ngulik-sql-basic-dataset.csv
+
 select * from `nguliksql.transaksi_warmindo`
 where jenis_kelamin = 'M';
 
