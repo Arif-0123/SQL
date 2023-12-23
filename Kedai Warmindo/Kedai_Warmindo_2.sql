@@ -1,3 +1,4 @@
+-- #data set kurir,menu,pelanggan,pembayaran,transaksi_2021,transaksi_2022
 select * from `nguliksql.kurir`;
 
 select * from `nguliksql.menu`;
